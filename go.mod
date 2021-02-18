@@ -1,4 +1,4 @@
-module gophr
+module github.com/snafuprinzip/gophr
 
 go 1.16
 
